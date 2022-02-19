@@ -5,6 +5,7 @@
 
 
 Download Visual Code -> https://code.visualstudio.com/download
+
 Download the Git Program -> https://git-scm.com/
 
 1. Open the program -> File -> Preferences -> Settings
